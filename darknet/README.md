@@ -1,4 +1,4 @@
-# Yolo-v4 and Yolo-v3/v2 for Windows and Linux
+# Yolo-v4 and Yolo-v3/v2 for Windows and Linux ( For better cloning download the darknet.zip file in the previous directory)
 ### (neural network for object detection) - Tensor Cores can be used on [Linux](https://github.com/AlexeyAB/darknet#how-to-compile-on-linux) and [Windows](https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-cmake-gui)
 
 Paper Yolo v4: https://arxiv.org/abs/2004.10934
