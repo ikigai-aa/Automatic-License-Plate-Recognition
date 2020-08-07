@@ -17,7 +17,7 @@
   
   
 ## Demo
-Link: https://github.com/ikigai-aa/Automatic-License-Plate-Recognition/blob/master/images/demo.gif](https://github.com/ikigai-aa/Automatic-License-Plate-Recognition/blob/master/images/demo.gif)
+![](https://github.com/ikigai-aa/Automatic-License-Plate-Recognition/blob/master/images/demo.gif)
 
 
 ## Overview
